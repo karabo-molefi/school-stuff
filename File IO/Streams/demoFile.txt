@@ -1,0 +1,10 @@
+Superman, DCEU
+Spiderman, MCU
+Batman, DCEU
+Iron Man, MCU
+Wonder Woman, DCEU
+Captain America, MCU
+Aquaman, DCEU
+Thor, MCU
+Flash, DCEU
+Hulk, MCU
